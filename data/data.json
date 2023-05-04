@@ -1,11 +1,11 @@
 [
       {
-        "id": 1,
+        "id": "1",
         "chef_picture": "https://i.ibb.co/mz5Z52K/chef2.png",
         "chef_name": "John Smith",
-        "years_of_experience": 10,
-        "number_of_recipes": 50,
-        "likes": 500,
+        "years_of_experience": "10",
+        "number_of_recipes": "50",
+        "likes": "500",
         "description": "Chef A is an experienced chef who specializes in Chinese cuisine. With over 10 years of experience, Chef A has developed a unique style that blends traditional Chinese flavors with modern techniques.A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed. ",
         "gradients_of_chinese_food": [
           "soy sauce",
@@ -49,12 +49,12 @@
           ]
       },
       {
-        "id": 2,
+        "id": "2",
         "chef_picture": "https://i.ibb.co/fp6yccL/chef1.jpg",
         "chef_name": "Jane Doe",
-        "years_of_experience": 5,
-        "number_of_recipes": 30,
-        "likes": 300,
+        "years_of_experience": "5",
+        "number_of_recipes": "30",
+        "likes": "300",
         "description": "Chef B is an experienced chef who specializes in Chinese cuisine. With over 10 years of experience, Chef A has developed a unique style that blends traditional Chinese flavors with modern techniques.A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed. ",
         "gradients_of_chinese_food": [
           "soy sauce",
@@ -98,12 +98,12 @@
           ]
       },
       {
-        "id": 3,
+        "id": "3",
         "chef_picture": "https://i.ibb.co/mz5Z52K/chef2.png",
         "chef_name": "David Lee",
-        "years_of_experience": 15,
-        "number_of_recipes": 100,
-        "likes": 1000,
+        "years_of_experience": "15",
+        "number_of_recipes": "100",
+        "likes": "1000",
         "description": "Chef C is an experienced chef who specializes in Chinese cuisine. With over 10 years of experience, Chef A has developed a unique style that blends traditional Chinese flavors with modern techniques.A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed. ",
         "gradients_of_chinese_food": [
           "soy sauce",
@@ -147,12 +147,12 @@
           ]
       },
       {
-        "id": 4,
+        "id": "4",
         "chef_picture": "https://i.ibb.co/fp6yccL/chef1.jpg",
         "chef_name": "Amy Chen",
-        "years_of_experience": 8,
-        "number_of_recipes": 40,
-        "likes": 400,
+        "years_of_experience": "8",
+        "number_of_recipes": "40",
+        "likes": "400",
         "description": "Chef D is an experienced chef who specializes in Chinese cuisine. With over 10 years of experience, Chef A has developed a unique style that blends traditional Chinese flavors with modern techniques.A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed. ",
         "gradients_of_chinese_food": [
           "soy sauce",
@@ -196,12 +196,12 @@
           ]
       },
       {
-        "id": 5,
+        "id": "5",
         "chef_picture": "https://i.ibb.co/mz5Z52K/chef2.png",
         "chef_name": "Mark Wang",
-        "years_of_experience": 12,
-        "number_of_recipes": 60,
-        "likes": 600,
+        "years_of_experience": "12",
+        "number_of_recipes": "60",
+        "likes": "600",
         "description": "Chef E is an experienced chef who specializes in Chinese cuisine. With over 10 years of experience, Chef A has developed a unique style that blends traditional Chinese flavors with modern techniques.A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed. ",
         "gradients_of_chinese_food": [
           "soy sauce",
@@ -245,12 +245,12 @@
           ]
       },
       {
-        "id": 6,
+        "id": "6",
         "chef_picture": "https://i.ibb.co/fp6yccL/chef1.jpg",
         "chef_name": "Karen Liu",
-        "years_of_experience": 7,
-        "number_of_recipes": 35,
-        "likes": 350,
+        "years_of_experience": "7",
+        "number_of_recipes": "35",
+        "likes": "350",
         "description": "Chef F is an experienced chef who specializes in Chinese cuisine. With over 10 years of experience, Chef A has developed a unique style that blends traditional Chinese flavors with modern techniques.A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed. ",
         "gradients_of_chinese_food": [
           "soy sauce",

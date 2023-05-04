@@ -14,6 +14,13 @@ app.get('/recipes', (req, res)=>{
     res.send(recipes)
 
 })
+app.get('/recipes/:id', (req, res)=>{
+    const id = req.params.id
+    console.log(id)
+    const selectedRecpes = recipes.find(n => n.id === id)
+    res.send(selectedRecpes)
+
+})
 
 
 
